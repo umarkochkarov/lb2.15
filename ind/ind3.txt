@@ -1,0 +1,2 @@
+Имя текущего пользователя: erken
+Текущая директория: C:\Users\erken\Desktop\python\Лаб2.15\lb2.15\ind
